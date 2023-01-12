@@ -1,0 +1,54 @@
+/* ⦁	<main> with id= "wrapper" as a container
+⦁	Width container: 700px;
+⦁	Height container: 730px;
+⦁	Border: 1px solid #000000;
+⦁	Center the container
+⦁	Padding: 10px 20px;
+⦁	Background Color: #a6e1ec;
+⦁	<h1> and <h2> tags for headings
+⦁	<p> tag for paragraph
+⦁	<strong> tag for bold text
+⦁	<em> tag for italic text
+⦁	<div> tag for the boxes that contain the images and text
+⦁	<img> tag for images 
+⦁	Width: 200px;
+⦁	Margin Right: 10px;
+⦁	Vertical Align: middle;
+⦁	<span class= "text"> for the text next to images
+⦁	Text color: #3f51b5;
+⦁	<li> tag
+⦁	Width: 595px;
+⦁	Padding: 10px;
+⦁	Margin Bottom: 5px;
+⦁	Font Size: 14px;
+⦁	Border: 1px solid #000000; */
+
+
+
+#wrapper {
+    width: 700px;
+    height: 730px;
+    border: 1px solid black;
+    padding: 10px 20px;
+    background: #a6e1ec;
+}
+
+img {
+    width: 200px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+li {
+    width: 595px;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    border: 1px solid black;
+    list-style: none
+}
+
+span {
+    color: #3f51b5;
+}
+
